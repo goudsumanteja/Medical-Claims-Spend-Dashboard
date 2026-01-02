@@ -1,28 +1,52 @@
 # Medical Claims Spend Dashboard | FY 2024
 
-## Tools & Technologies
-Power BI, DAX, Data Modeling, Data Visualization
+## 📊 Project Overview
+This project analyzes healthcare claims data to understand total medical spend,
+cost drivers, payer mix, and high-cost procedures using Power BI.
 
-## Project Overview
-This project analyzes medical claims spend for FY 2024 using simulated healthcare claims data.
-An interactive Power BI dashboard was built to track overall medical spend, claims volume, and average cost per claim.
+The dashboard is designed to support healthcare finance, medical economics (MER),
+and cost-utilization analysis.
 
-## Key Metrics & Insights
-- Total Medical Spend (USD)
+---
+
+## 🎯 Objectives
+- Analyze total medical spend and claims volume
+- Identify highest cost-driving procedures
+- Compare spend across insurance types
+- Track annual medical spend trends
+- Enable filtering by insurance type
+
+---
+
+## 🛠 Tools & Technologies
+- Power BI
+- DAX
+- SQL-style aggregations
+- Data modeling & visualization
+
+---
+
+## 📈 Key Metrics
+- Total Medical Spend
 - Total Claims Processed
 - Average Cost per Claim
-- Annual Medical Spend Trend
-- Spend distribution by Insurance Type
-- Identification of highest cost-driving medical procedures
+- Spend by Insurance Type
+- Top Cost-Driving Procedures
 
-## Business Use Case
-The dashboard enables healthcare analysts and payers to monitor medical spend trends,
-compare payer-wise costs, and identify procedures contributing most to total cost.
-It supports cost transparency, utilization analysis, and data-driven decision-making
-in a healthcare analytics context.
+---
 
-## Dashboard Features
-- KPI cards for executive-level overview
-- Interactive slicers for insurance type filtering
-- Clean and professional layout
-- Optimized for stakeholder and interview presentations
+## 🖼 Dashboard Preview
+![Dashboard Screenshot](dashboard.png)
+
+---
+
+## 📁 Files
+- `Medical_Claims_Spend_Dashboard_FY2024.pbix` – Power BI dashboard file
+- `dashboard.png` – Dashboard screenshot
+- `data/` – Simulated healthcare claims data
+
+---
+
+## 👤 Author
+**Suman Teja**  
+Data Analyst | Healthcare & Financial Analytics
